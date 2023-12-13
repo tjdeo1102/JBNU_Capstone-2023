@@ -66,19 +66,13 @@ pip install ultralytics
 
 5. 나타난 팝업창에서 다음의 설명에 맞게 경로를 설정합니다.
    
-   *Input Image: 예측할 원래 이미지들이 있는 경로입니다.
-      
-   *Check Opt
-      
-         *Bounding Box Centroid: 예측된 바운딩 박스의 무게중심을 기준으로 불법 객체를 판단합니다.
-         
-         *Polygon Box Centroid: 예측된 폴리곤 박스의 무게중심을 기준으로 불법 객체를 판단합니다.
-         
-   *Input dbf: 행정데이터(토지소유정보)가 있는 폴더 경로입니다.
-      
-   *Input model: 첫번째 트랙의 결과로 나온 Prediction폴더 경로입니다.
-      
-   *Output Path: 최종 결과를 저장할 경로입니다.
+   +Input Image: 예측할 원래 이미지들이 있는 경로입니다.      
+   +Check Opt
+      +Bounding Box Centroid: 예측된 바운딩 박스의 무게중심을 기준으로 불법 객체를 판단합니다.
+      +Polygon Box Centroid: 예측된 폴리곤 박스의 무게중심을 기준으로 불법 객체를 판단합니다.
+   +Input dbf: 행정데이터(토지소유정보)가 있는 폴더 경로입니다.
+   +Input model: 첫번째 트랙의 결과로 나온 Prediction폴더 경로입니다.
+   +Output Path: 최종 결과를 저장할 경로입니다.
 
 6. 확인을 눌러 작업을 시작합니다.
 
