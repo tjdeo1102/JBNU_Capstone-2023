@@ -16,12 +16,10 @@
 
 2. 다음의 필요한 라이브러리들을 설치해줍니다. (파이토치에 관한 설치는 따로 해주셔야 합니다.)
    
-3. QGIS 3.32.3 버전을 설치해야 합니다. 다음의 링크를 통해 설치해주세요.
-   https://download.qgis.org/downloads/
+3. QGIS 3.32.3 버전을 설치해야 합니다. [다음](https://download.qgis.org/downloads/)의 링크를 통해 설치해주세요.
    
 4. 사전에 드론맵을 준비해주세요(별도로 구해야됨)
    
-5. 드론맵에 해당되는 지역의 행정데이터(토지소유정보)를 다음의 링크를 통해 다운받습니다.
-   http://openapi.nsdi.go.kr/nsdi/index.do
+5. 드론맵에 해당되는 지역의 행정데이터(토지소유정보)를 다음의 [링크](http://openapi.nsdi.go.kr/nsdi/index.do)를 통해 다운받습니다.
 
 ## 과정
