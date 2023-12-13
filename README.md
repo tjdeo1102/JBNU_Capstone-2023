@@ -36,9 +36,11 @@ pip install ultralytics
 6. 사전에 드론맵을 준비해주세요(별도로 구해야됨)
    
 7. 드론맵에 해당되는 지역의 행정데이터(토지소유정보)를 다음의 [링크](http://openapi.nsdi.go.kr/nsdi/index.do)를 통해 다운받습니다.
+   
 ---
 ## 과정
 ---
+
 ### 첫번째 트랙
 ---
 1. 1_YOLO폴더의 main.py을 열어줍니다.
@@ -50,6 +52,7 @@ pip install ultralytics
 4. 미리 설치해둔 가상환경을 통해 main.py를 실행해줍니다.
 
 5. 설치 후, 저장경로에 예측된 이미지와 객체에 대한 정보가 포함되어 있는 output.csv가 저장됩니다.
+   
 ---
 ### 두번째 트랙
 ---
