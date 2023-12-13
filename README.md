@@ -42,7 +42,7 @@ pip install ultralytics
 ---
 
 ### 첫번째 트랙
----
+
 1. 1_YOLO폴더의 main.py을 열어줍니다.
 
 2. input_orgin_tif_folder에는 예측할 이미지들이 있는 폴더로 설정해줍니다.
@@ -55,7 +55,7 @@ pip install ultralytics
    
 ---
 ### 두번째 트랙
----
+
 1. 미리 설치해둔 QGIS를 실행합니다.
 
 2. 상단의 플러그인-플러그인 관리 및 설치-ZIP 파일에서 설치 순으로 들어갑니다.
@@ -83,3 +83,8 @@ pip install ultralytics
 6. 확인을 눌러 작업을 시작합니다.
 
 7. 최종 결과로 예측된 이미지들과 이미지들의 정보가 저장된 csv가 출력됩니다.
+
+---
+## 라이센스
+---
+LICENCE
