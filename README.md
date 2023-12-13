@@ -70,9 +70,9 @@ pip install ultralytics
       
    *Check Opt
       
-      *Bounding Box Centroid: 예측된 바운딩 박스의 무게중심을 기준으로 불법 객체를 판단합니다.
+         *Bounding Box Centroid: 예측된 바운딩 박스의 무게중심을 기준으로 불법 객체를 판단합니다.
          
-      *Polygon Box Centroid: 예측된 폴리곤 박스의 무게중심을 기준으로 불법 객체를 판단합니다.
+         *Polygon Box Centroid: 예측된 폴리곤 박스의 무게중심을 기준으로 불법 객체를 판단합니다.
          
    *Input dbf: 행정데이터(토지소유정보)가 있는 폴더 경로입니다.
       
