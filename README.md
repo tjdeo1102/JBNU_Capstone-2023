@@ -87,4 +87,9 @@ pip install ultralytics
 ---
 ## 라이센스
 ---
-LICENCE
+MIT (LICENCE파일 참고)
+
+---
+## 문제 발생시
+---
+Issues를 이용해주세요.
