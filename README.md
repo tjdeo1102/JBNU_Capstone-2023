@@ -15,15 +15,18 @@
 ## 설치
 1. 먼저 첫번째 트랙을 위해 VSCode에서 터미널에서 다음의 과정으로 Conda 가상환경을 준비해줍니다. (Conda가 설치되었다고 가정)
 
-    "conda create -n [가상환경명] python=3.8"
-   
-    "conda activate [가상환경명]"
+"```python
+conda create -n [가상환경명] python=3.8
+
+conda activate [가상환경명]
+```"
    
 3. 다음의 필요한 라이브러리들을 설치해줍니다. (파이토치에 관한 설치는 따로 해주셔야 합니다.)
 
-    "pip install shapely"
-   
-    "pip install ultralytics"
+"```pip install shapely
+
+pip install ultralytics
+```"
    
 5. QGIS 3.32.3 버전을 설치해야 합니다. [다음](https://download.qgis.org/downloads/)의 링크를 통해 설치해주세요.
    
