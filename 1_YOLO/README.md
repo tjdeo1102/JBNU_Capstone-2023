@@ -8,7 +8,8 @@
  
  본문의 [README.md](https://github.com/tjdeo1102/JBNU_Capstone-2023/blob/main/README.md)의 설치를 완료했다면 다음 과정을 수행해주세요.
 
----
+#
+#
 
 ## 과정
 ---
