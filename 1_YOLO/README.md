@@ -1,8 +1,11 @@
 # 첫번째 트랙 과정
 ---
  YOLOV8을 이용해 이미지속 객체 탐지를 진행하는 과정입니다.
+ 
  미리 학습된 가중치를 이용해 예측을 하고 필요한 레이블 정보만 csv로 저장합니다.
+ 
  Conda환경 세팅, ultralytics, shapely가 정상적으로 설치되어야 다음 과정 수행이 가능합니다.
+
  본문의 [README.md](https://github.com/tjdeo1102/JBNU_Capstone-2023/blob/main/README.md)의 설치를 완료했다면 다음 과정을 수행해주세요.
 
 
