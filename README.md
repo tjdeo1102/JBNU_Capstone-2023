@@ -42,11 +42,11 @@ pip install ultralytics
 ---
 
 ### 첫번째 트랙
-+ 1_YOLO폴더의 README.md를 참고해주세요.
++ 1_YOLO폴더의 [README.md](https://github.com/tjdeo1102/JBNU_Capstone-2023/blob/main/1_YOLO/README.md)를 참고해주세요.
    
 ---
 ### 두번째 트랙
-+ 2_QGIS폴더의 README.md를 참고해주세요.
++ 2_QGIS폴더의 [README.md](https://github.com/tjdeo1102/JBNU_Capstone-2023/tree/main/2_QGIS)를 참고해주세요.
 
 
 ## 라이센스
