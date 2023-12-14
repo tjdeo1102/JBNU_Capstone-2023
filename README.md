@@ -54,6 +54,6 @@ pip install ultralytics
 MIT (LICENCE파일 참고)
 
 
-## 문제 발생시
+## 버그 리포트
 ---
 Issues를 이용해주세요.
