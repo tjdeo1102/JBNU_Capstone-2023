@@ -5,14 +5,16 @@ QGIS의 플러그인을 이용하여 예측된 객체의 불법 여부를 판단
 
 미리 설치된 QGIS에서 플러그인 설치 후, 해당 플러그인을 실행해서 진행됩니다.
 
-QGIS 3.32.3가 정상적으로 설치되어야 다음 과정 수행이 가능합니다.
+QGIS 3.34가 정상적으로 설치되어야 다음 과정 수행이 가능합니다.
+
+또한, 모든 데이터의 좌표계가 EPSG:5186으로 재투영해주어야 됩니다. 해당 방법은 다음 [링크](https://docs.qgis.org/3.34/en/docs/user_manual/processing_algs/qgis/vectorgeneral.html?highlight=native%20reprojectlaye)를 참고하세요.
 
 본문의 [README.md](https://github.com/tjdeo1102/JBNU_Capstone-2023/blob/main/README.md)의 설치를 완료했다면 다음 과정을 수행해주세요.
 
 ## 과정
 ---
 
-1. 미리 설치해둔 QGIS 3.32.3 을 실행합니다.
+1. 미리 설치해둔 QGIS 3.34 을 실행합니다.
 
 2. 상단의 플러그인-플러그인 관리 및 설치-ZIP 파일에서 설치 순으로 들어갑니다.
 
