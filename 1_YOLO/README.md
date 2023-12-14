@@ -12,7 +12,7 @@
 ## 과정
 ---
 
-1. 1_YOLO폴더의 main.py을 열어줍니다.
+1. main.py을 열어줍니다.
 
 2. input_orgin_tif_folder에는 예측할 이미지들이 있는 폴더로 설정해줍니다.
 
