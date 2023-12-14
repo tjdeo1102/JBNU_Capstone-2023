@@ -16,7 +16,7 @@ QGIS 3.32.3가 정상적으로 설치되어야 다음 과정 수행이 가능합
 
 2. 상단의 플러그인-플러그인 관리 및 설치-ZIP 파일에서 설치 순으로 들어갑니다.
 
-3. 2_QGIS폴더에 있는 lllegar_checker.zip의 경로를 설정하고 플러그인 설치를 합니다.
+3. lllegar_checker.zip의 경로를 설정하고 플러그인 설치를 합니다.
 
 4. 다시 상단의 플러그인-lllegalAreaChecker-lllegalAreaChecker 순으로 들어갑니다.
 
