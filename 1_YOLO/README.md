@@ -6,7 +6,7 @@
 
  Conda환경 세팅, ultralytics, shapely가 정상적으로 설치되어야 다음 과정 수행이 가능합니다.
  
- 본문의 README.md의 설치를 완료했다면 다음 과정을 수행해주세요.
+ 본문의 [README.md](https://github.com/tjdeo1102/JBNU_Capstone-2023/blob/main/README.md)의 설치를 완료했다면 다음 과정을 수행해주세요.
 
 
 ## 과정
