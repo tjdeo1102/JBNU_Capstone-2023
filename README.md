@@ -33,7 +33,7 @@ pip install shapely
 pip install ultralytics
 ```
    
-5. QGIS 3.32.3 버전을 설치해야 합니다. [다음](https://download.qgis.org/downloads/)의 링크를 통해 설치해주세요.
+5. QGIS 3.34 버전을 설치해야 합니다. [다음](https://download.qgis.org/downloads/)의 링크를 통해 설치해주세요.
    
 6. 사전에 드론맵을 준비해주세요(별도로 구해야됨)
    
