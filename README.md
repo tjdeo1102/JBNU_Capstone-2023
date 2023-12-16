@@ -63,10 +63,10 @@ pip install ultralytics
 ## 라이센스
 ---
 
-MIT (LICENCE파일 참고)
+MIT ([LICENCE파일](https://github.com/tjdeo1102/JBNU_Capstone-2023/blob/main/LICENSE) 참고)
 
 
 ## 버그 리포트
 ---
 
-Issues를 이용해주세요.
+[Issues](https://github.com/tjdeo1102/JBNU_Capstone-2023/issues)를 이용해주세요.
