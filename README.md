@@ -51,6 +51,8 @@ pip install ultralytics
 + 2_QGIS폴더의 [README.md](https://github.com/tjdeo1102/JBNU_Capstone-2023/tree/main/2_QGIS)를 참고해주세요.
 
 ## 팀
+|성명|역할|
+|:---:|:---:|
 | 오주형 |   PM, AI모델 설계    |
 | 소부승 | 데이터 전처리, AI모델 설계 |
 | 김지성 |  자료 정리 , QGIS 개발  |
