@@ -56,6 +56,7 @@ pip install ultralytics
 
 ### 결과 이미지 예시
 ![image](https://github.com/tjdeo1102/JBNU_Capstone-2023/assets/57614322/43c50c82-d033-4ab5-a975-a1885e5fca0b)
+
 (왼쪽의 사진은 모든 과정을 거쳐서 나온 결과 이미지, 오른쪽은 원본 이미지입니다.)
  + 파란색 배경: 필지의 지목이 하천인 곳을 나타냅니다.
  + 초록색 박스: YOLO모델에 의해 예측된 객체의 박스를 나타냅니다.
