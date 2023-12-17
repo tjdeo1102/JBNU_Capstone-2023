@@ -50,7 +50,7 @@ pip install ultralytics
 ### 두번째 트랙
 + 2_QGIS폴더의 [README.md](https://github.com/tjdeo1102/JBNU_Capstone-2023/tree/main/2_QGIS)를 참고해주세요.
 
-##결과
+## 결과
 ---
 두가지 유형을 담고있는 파일이 저장됩니다.
 
