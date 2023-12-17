@@ -23,5 +23,6 @@
 5. 설치 후, 저장경로에 예측된 이미지가 저장됩니다.
    
 6. 또한, 이미지내의 객체 정보를 포함하는 다음과 같은 output.csv가 저장됩니다.
-   ![image](https://github.com/tjdeo1102/JBNU_Capstone-2023/assets/57614322/76e75605-bd0e-4581-8829-5f2a50d6cfee)
+   ![image](https://github.com/tjdeo1102/JBNU_Capstone-2023/assets/57614322/b379179e-b39f-4e0d-9de4-c1f5210cfd51)
+
 
