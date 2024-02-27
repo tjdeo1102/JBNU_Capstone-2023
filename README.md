@@ -1,6 +1,18 @@
 # 2023-2 전북대학교 SW 캡스톤디자인 2023
 
-해당 프로젝트는 **한국국토정보공사**(이하 [LX](https://www.lx.or.kr/kor.do)) x 온새미로팀이 함께 진행했습니다.
+해당 프로젝트는 **한국국토정보공사**(이하 [LX](https://www.lx.or.kr/kor.do)) x 팀 온새미로가 함께 진행했습니다.
+
+## 팀 온새미로
+
+|성명|역할|
+|:---:|:---:|
+| [오주형](https://github.com/OH-JUHYONG) |   PM, AI모델 설계    |
+| [소부승](https://github.com/bootkorea) | 데이터 전처리, AI모델 설계 |
+| [김지성](https://github.com/zs0057) |  자료 정리 , QGIS 개발  |
+| [곽성대](https://github.com/tjdeo1102) | 데이터 후처리, QGIS 개발 |
+
+---
+
 ## 주제
 ### 고정밀 영상을 활용한 소하천 불법 점용 탐지 기법 개발
 ---
@@ -130,15 +142,7 @@ pip install ultralytics
    + 지목명: 검출된 객체가 포함된 지목의 이름
    + Reason: 검출된 객체가 불법인 이유
 
-## 팀
 ---
-
-|성명|역할|
-|:---:|:---:|
-| [오주형](https://github.com/OH-JUHYONG) |   PM, AI모델 설계    |
-| [소부승](https://github.com/bootkorea) | 데이터 전처리, AI모델 설계 |
-| [김지성](https://github.com/zs0057) |  자료 정리 , QGIS 개발  |
-| [곽성대](https://github.com/tjdeo1102) | 데이터 후처리, QGIS 개발 |
 
 ## 라이센스
 ---
