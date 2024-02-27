@@ -125,7 +125,7 @@ pip install ultralytics
 두가지 유형을 담고있는 파일이 저장됩니다.
 
 ### 결과 이미지 예시
-![image](https://github.com/tjdeo1102/JBNU_Capstone-2023/assets/57614322/43c50c82-d033-4ab5-a975-a1885e5fca0b)
+![image](https://github.com/tjdeo1102/JBNU_Capstone-2023/assets/90824684/0e706b94-774f-4f22-9de8-bab7bcd33fd9)
 
 (왼쪽의 사진은 모든 과정을 거쳐서 나온 결과 이미지, 오른쪽은 원본 이미지입니다.)
  + 파란색 배경: 하천 지목(필지의 지목이 하천인 곳)을 나타냅니다.
@@ -133,7 +133,8 @@ pip install ultralytics
  + 빨간색 박스: 초록색 박스 중, 하천 지목에 있는 경우 불법 점용 의심 지역을 나타냅니다.
 
 ### 불법 의심 객체 정보를 담은 CSV파일
-![image](https://github.com/tjdeo1102/JBNU_Capstone-2023/assets/57614322/726f74d4-7a03-404d-9c5d-409daff6b2e3)
+![image](https://github.com/tjdeo1102/JBNU_Capstone-2023/assets/90824684/29b7e4da-4c63-4e3e-8ca5-c07f2e9a7387)
+
    + 파일: 검출된 객체가 있는 이미지 파일
    + 필지 고유번호: 검출된 객체가 포함된 필지의 고유번호
    + 법정동명: 검출된 객체가 포함된 필지의 법정동명
