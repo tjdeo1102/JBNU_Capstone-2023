@@ -60,7 +60,7 @@
 + csv 파일을 지리 정보를 활용할 수 있는 [QGIS](https://qgis.org/ko/site/forusers/download.html#)에 넘김
 + 최종 단계에서 불법 점용 의심 지역을 알려주기 위해 QGIS에서 **2개의 지리 정보**(위 그림 참고) 사용
 
-![image](https://github.com/tjdeo1102/JBNU_Capstone-2023/assets/90824684/76633c77-b286-4ca5-baa7-ab6ac4a01ddd)
+![image](https://github.com/tjdeo1102/JBNU_Capstone-2023/assets/90824684/e0ee4490-ce55-4727-8c51-2ec07e689be6)
 
 + 위 그림은 QGIS에서 2개의 지리 정보를 불러온 화면
 + 모델을 통해 검출된 **_불법 객체 정보를 담은 csv 파일_** 이 QGIS에 전달
