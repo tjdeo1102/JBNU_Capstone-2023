@@ -82,8 +82,9 @@
 + 모델을 통해 검출된 **_불법 객체 정보를 담은 csv 파일_** 이 QGIS에 전달
 + 최종적으로 csv 파일에 있는 불법 객체가 **_하천 지목이라는 지리 정보에 위치_** 하면 불법 점용 의심 지역으로 판단
 
-## 설치
 ---
+
+## 설치
 
 1. 먼저 첫번째 트랙을 위해 VSCode에서 터미널에서 다음의 과정으로 Conda 가상환경을 준비해줍니다. (Conda가 설치되었다고 가정)
 
@@ -109,9 +110,8 @@ pip install ultralytics
    
 7. 드론맵에 해당되는 지역의 행정데이터(토지소유정보, DBF파일 형식만 지원)를 다음의 [링크](http://openapi.nsdi.go.kr/nsdi/index.do)를 통해 다운받습니다.
    
-
-## 과정
 ---
+## 과정
 
 ### 첫번째 트랙
 + 1_YOLO폴더의 [README.md](https://github.com/tjdeo1102/JBNU_Capstone-2023/blob/main/1_YOLO/README.md)를 참고해주세요.
@@ -120,8 +120,9 @@ pip install ultralytics
 ### 두번째 트랙
 + 2_QGIS폴더의 [README.md](https://github.com/tjdeo1102/JBNU_Capstone-2023/tree/main/2_QGIS)를 참고해주세요.
 
-## 결과
 ---
+
+## 결과
 두가지 유형을 담고있는 파일이 저장됩니다.
 
 ### 결과 이미지 예시
@@ -146,12 +147,11 @@ pip install ultralytics
 ---
 
 ## 라이센스
----
 
 MIT ([LICENCE파일](https://github.com/tjdeo1102/JBNU_Capstone-2023/blob/main/LICENSE) 참고)
 
+---
 
 ## 버그 리포트
----
 
 [Issues](https://github.com/tjdeo1102/JBNU_Capstone-2023/issues)를 이용해주세요.
