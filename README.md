@@ -1,6 +1,6 @@
 # 2023-2 전북대학교 SW 캡스톤디자인 2023
 
-해당 프로젝트는 **한국국토정보공사**(이하 [LX](https://www.lx.or.kr/kor.do)) x 팀 온새미로가 함께 진행했습니다.([Link](https://www.jbyonhap.com/news/articleView.html?idxno=412660&page=3&total=368217))
+해당 프로젝트는 **한국국토정보공사**([LX](https://www.lx.or.kr/kor.do)) x 팀 온새미로가 함께 진행했습니다.([Link](https://www.jbyonhap.com/news/articleView.html?idxno=412660&page=3&total=368217))
 
 ## 팀 온새미로
 
